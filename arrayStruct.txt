@@ -1,0 +1,9 @@
+W10000001 Joe Kool 27 3.25
+W10000002 Mary Smith 19 3.90
+W10001001 Phred Jones 21 2.01
+W10001010 Sue Cartwright 30 3.0
+W10000010 John Calvin 18 3.25
+W10000005 Mary Kelley 19 4.0
+W10002000 Ed Cochran 20 2.89
+W10000101 Janet Nopalitano 22 3.88
+
